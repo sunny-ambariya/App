@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="sent_otp">Enter Otp sent to your phone number</string>
+    <string name="Resend">Resend OTP in 30 sec</string>
+    <string name="default_web_client_id">Web Client</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
